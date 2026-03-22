@@ -29,7 +29,7 @@ microdados-censo-escolar/
     ├── consolidar_anos.py  
     ├── genero_dependencias.py  
     ├── genero_localizacao.py  
-    ├── genero_uf.py
+    ├── genero_uf.py  
     └── utils_basico.py
     
 ⚠️ As pastas dados/ e resultados/ não estão no repositório devido ao tamanho dos arquivos.
