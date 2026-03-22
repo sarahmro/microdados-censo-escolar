@@ -45,12 +45,12 @@ Pasta no Drive com os Microdados: [Microdados INEP](https://drive.google.com/dri
 ##  Como executar os scripts
 ###  1. Baixar os microdados
 Organize os arquivos na estrutura:
-dados/
-├── 2020/
-├── 2021/
-├── 2022/
-├── 2023/
-└── 2024/
+dados/  
+├── 2020/  
+├── 2021/  
+├── 2022/  
+├── 2023/  
+└── 2024/  
 
 ###  2. Executar os scripts de processamento
 Os scripts devem ser executados na seguinte ordem:  
